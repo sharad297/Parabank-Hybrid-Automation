@@ -11,7 +11,7 @@
 
 **Page Object Model · Test-Driven Development · Data-Driven Testing · HTML Reports**
 
-[🌐 Application Under Test](https://parabank.parasoft.com/parabank/index.htm) · [📊 Portfolio / Live Results](https://sagar-bankar.github.io/hybrid-framework-portfolio/) · [💻 Browse Repository](https://github1s.com/sagar-bankar/ParaBank_Automation_Hybrid-Automation-Framework.git)
+[🌐 Application Under Test](https://parabank.parasoft.com/parabank/index.htm)
 
 </div>
 
